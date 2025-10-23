@@ -72,26 +72,6 @@ The system leverages **Large Language Models (LLMs)** and **Hugging Face transfo
   - [eCourts](https://ecourts.gov.in) — Official repository for Indian judiciary data.  
   - [Hugging Face Datasets](https://huggingface.co/datasets) — For legal-domain pre-trained corpora.  
 
-
-- ## ⚙️ Data Pipeline Overview
-
-[Raw Legal PDFs / HTML]
-↓
-[OCR + Text Extraction]
-↓
-[NLP Cleaning + Tokenization]
-↓
-[Feature Extraction (Income, Duration, Dependents)]
-↓
-[LLM Embedding via Hugging Face]
-↓
-[ML Models: Classification + Regression]
-↓
-[Outcome Prediction & Alimony Range]
-↓
-[Dashboard Visualization]
-
-
 - ## 📈 SWOT Analysis
 
 | **Strengths** | **Weaknesses** |
